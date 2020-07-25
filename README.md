@@ -1,0 +1,2 @@
+# FaceSignSystem
+本项目为实习期间做的一款基于百度AI的QT人脸考勤打卡系统
