@@ -1,7 +1,10 @@
 # FaceSignSystem
 本项目为实习期间做的一款基于百度AI的QT人脸考勤打卡系统
+
 欢迎访问个人博客：https://flblog.top
+
 项目地址：https://flblog.top/14.html
+
 FaceRecognitionAttendanceSystem
 Python+opencv+keras+numpy+sklearn的人脸识别门禁系统
 本项目为实习期间做的一款基于opencv的人脸识别门禁系统，作者某双非二本院校，写于2020/7/23。
