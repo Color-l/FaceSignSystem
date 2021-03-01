@@ -130,7 +130,7 @@ bool JasonQt_Face::RegisterMember(QString qstrImage,QString UserId)//人脸注�
         return true;
     }
 }
-全选代码复制
+
 人脸库搜索
 
 QUrl url("https://aip.baidubce.com/rest/2.0/face/v3/search?access_token="+m_token);
@@ -148,7 +148,7 @@ QUrl url("https://aip.baidubce.com/rest/2.0/face/v3/search?access_token="+m_toke
     {
         return false;
     }
-全选代码复制
+
 数据解析
 
 QJsonObject result=acceptedData.take("result").toObject();
@@ -165,7 +165,7 @@ QJsonObject result=acceptedData.take("result").toObject();
             return false;
     }
     return false;
-全选代码复制
-三、运行效果展示
 
+
+三、运行效果展示
 见：https://flblog.top/13.html
