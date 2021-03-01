@@ -87,7 +87,7 @@ bool JasonQt_Face::refreshToken(void)//自动获取token
     m_token = data["access_token"].toString();
     return true;
 }
-全选代码复制
+
 3.图片Base64编码
 1、提取图片
 2、数据转换为BASE64编码
