@@ -1,9 +1,9 @@
 # FaceSignSystem
 本项目为实习期间做的一款基于百度AI的QT人脸考勤打卡系统
 
-欢迎访问个人博客：https://flblog.top
+欢迎访问个人博客：https://www.ikunl.com
 
-项目地址：https://flblog.top/13.html
+项目地址：https://www.ikunl.com/2.html
 
 FaceSignSystem
 
@@ -11,7 +11,7 @@ FaceSignSystem
 
 作者	翁飞龙
 QQ交流群	692695467(点击跳转)
-博客地址	https://www.flblog.top
+博客地址	https://www.ikunl.com
 源码地址	Github    码云
 使用环境
 支持C++编译器的QT5，Sqlite数据库，本项目在Ubuntu20.04系统下制作完成
